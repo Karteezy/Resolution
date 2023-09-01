@@ -2,3 +2,5 @@ List Belajar
 - Belajar HTML
 - Belajar CSS
 - Belajar JavaScript
+- Belajar PHP
+- Belajar C++
