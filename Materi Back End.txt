@@ -1,0 +1,7 @@
+List Belajar
+- Java
+- Javascript
+- C++
+- C#
+- PHP
+- Python
