@@ -1,0 +1,6 @@
+List Belajar
+- HTML
+- CSS
+- Javascript
+- Version Control System (GIT, GITHUB)
+- Framework
