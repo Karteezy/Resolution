@@ -1,6 +1,11 @@
 List Belajar
 - Belajar HTML
 - Belajar CSS
-- Belajar JavaScript
+- Belajar Javascript
 - Belajar PHP
 - Belajar C++
+- Belajar Java
+- Belajar Database
+- Belajar Framework
+- Belajar Python
+- Belajar Linux
